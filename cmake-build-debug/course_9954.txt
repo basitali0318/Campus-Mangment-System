@@ -1,0 +1,4 @@
+Course Name: Maths
+Course Code: 9954
+Credit Hours: 3
+------------------------

@@ -1,0 +1,11 @@
+Faculty Member 1
+Name: Saad
+Father's Name: ilays
+Email: saad@gmail.com
+Department: EE
+Title: Senior
+------------------------
+Username: Saad123
+Password: Saad123
+User Type: Faculty Member
+------------------------

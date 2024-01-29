@@ -1,0 +1,3 @@
+Course: 0318, Marks: 100, GPA: 4
+Course: 2233, Marks: 70, GPA: 2.7
+Total GPA: 3.35

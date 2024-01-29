@@ -1,0 +1,13 @@
+Student 1
+Name: Waleed
+Father's Name: Khan
+Email: waleed@gmal.com
+Gender: M
+Department: RR
+Semester: 1
+Enrollment: 01-RR-1
+------------------------
+Username: Waleed_01-RR-1
+Password: 18467
+User Type: Student
+------------------------

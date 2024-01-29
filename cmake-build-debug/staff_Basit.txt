@@ -1,0 +1,7 @@
+Staff Member 1
+Name: Basit
+Father's Name: TAzer
+Phone: 03320579452
+Department: Software 
+Position: Lab Attended
+------------------------

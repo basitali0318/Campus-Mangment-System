@@ -1,0 +1,48 @@
+Course Code: 0318
+Attendance: Absent
+Hours: 1
+------------------------
+Course Code: 2233
+Attendance: Present
+Hours: 2
+------------------------
+Course Code: 0318
+Attendance: Present
+Hours: 3
+------------------------
+Course Code: 0318
+Attendance: Present
+Hours: 3
+------------------------
+Course Code: 0318
+Attendance: Absent
+Hours: 2
+------------------------
+Course Code: 0318
+Attendance: Present
+Hours: 3
+------------------------
+Course Code: 0318
+Attendance: Present
+Hours: 3
+------------------------
+Course Code: 0318
+Attendance: Present
+Hours: 1
+------------------------
+Course Code: 0318
+Attendance: Present
+Hours: 1
+------------------------
+Course Code: 0318
+Attendance: Present
+Hours: 3
+------------------------
+Course Code: 0318
+Attendance: Present
+Hours: 1
+------------------------
+Course Code: 0318
+Attendance: Present
+Hours: 2
+------------------------

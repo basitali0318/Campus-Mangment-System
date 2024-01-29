@@ -1,0 +1,14 @@
+Student 1
+Name: Basit
+Father's Name: tazer
+Email: basitali@gmail.com
+Gender: M
+Department: EE
+Semester: 1
+Enrollment: 01-EE-1
+------------------------
+Username: basit123
+Password: basit123
+User Type: Student
+------------------------
+

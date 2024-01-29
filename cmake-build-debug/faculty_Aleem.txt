@@ -1,0 +1,11 @@
+Faculty Member 
+Name: Aleem
+Father's Name: Ahmed
+Email: ahmed@gmail.com
+Department: SE
+Title: HOD
+------------------------
+Username: Aleem_HOD
+Password: 41
+User Type: Faculty Member
+------------------------

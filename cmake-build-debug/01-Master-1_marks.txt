@@ -1,0 +1,2 @@
+Course: 0318, Marks: 77, GPA: 3.3
+Total GPA: 3.3

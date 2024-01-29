@@ -1,0 +1,13 @@
+Student 1
+Name: Basit
+Father's Name: Tazer
+Email: sajid@gmail.com
+Gender: M
+Department: Master
+Semester: 1
+Enrollment: 01-Master-1
+------------------------
+Username: Basit_01-Master-1
+Password: 41
+User Type: Student
+------------------------

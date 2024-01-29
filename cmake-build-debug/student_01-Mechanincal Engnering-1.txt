@@ -1,0 +1,13 @@
+Student 1
+Name: Basit
+Father's Name: Tazer
+Email: basitali@gmail.com
+Gender: M
+Department: Mechanincal Engnering
+Semester: 7
+Enrollment: 01-Mechanincal Engnering-1
+------------------------
+Username: basitali666
+Password: basitali666
+User Type: Student
+------------------------

@@ -1,0 +1,3 @@
+C:/Users/basit/OneDrive - Higher Education Commission/Documents/University work/Projects/OOP NEW PROJECT/cmake-build-debug/CMakeFiles/OOP_NEW_PROJECT.dir
+C:/Users/basit/OneDrive - Higher Education Commission/Documents/University work/Projects/OOP NEW PROJECT/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/basit/OneDrive - Higher Education Commission/Documents/University work/Projects/OOP NEW PROJECT/cmake-build-debug/CMakeFiles/rebuild_cache.dir

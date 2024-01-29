@@ -1,0 +1,4 @@
+Course Name: Computer Fundementals
+Course Code: 9990
+Credit Hours: 2
+------------------------

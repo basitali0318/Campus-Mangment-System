@@ -1,0 +1,2 @@
+Course: 0318, Marks: 99, GPA: 4
+Total GPA: 4

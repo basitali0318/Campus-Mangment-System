@@ -1,0 +1,16 @@
+Enrollment Number: 01-EE-1
+Course Code: 0318
+Assigned Faculty: Saad
+------------------------
+Enrollment Number: 01-EE-1
+Course Code: 9990
+Assigned Faculty: Basit
+------------------------
+Enrollment Number: 01-EE-1
+Course Code: 2233
+Assigned Faculty: Faizan
+------------------------
+Enrollment Number: 01-EE-1
+Course Code: 9954
+Assigned Faculty: Saad
+------------------------

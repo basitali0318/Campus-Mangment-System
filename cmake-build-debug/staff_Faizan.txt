@@ -1,0 +1,7 @@
+Staff Member 1
+Name: Faizan
+Father's Name: ALi
+Phone: 12345678901
+Department: EE
+Position: Mali
+------------------------

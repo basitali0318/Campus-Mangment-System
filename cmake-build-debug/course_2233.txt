@@ -1,0 +1,4 @@
+Course Name: Maths
+Course Code: 2233
+Credit Hours: 3
+------------------------

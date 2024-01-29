@@ -1,0 +1,11 @@
+Faculty Member 1
+Name: Faizan
+Father's Name: Ali
+Email: faizan@gmail.com
+Department: IT
+Title: HOD
+------------------------
+Username: Faizan123
+Password: Faizan123
+User Type: Faculty Member
+------------------------

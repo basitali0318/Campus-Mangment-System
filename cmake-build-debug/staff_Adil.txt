@@ -1,0 +1,7 @@
+Staff Member 1
+Name: Adil
+Father's Name: aShazad
+Phone: 12345678901
+Department: RE
+Position: Sweper
+------------------------
